@@ -1,0 +1,1 @@
+IP address line in the logstash section of filebeat.yml needs to be updated to point to the proteus server
