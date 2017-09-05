@@ -1,4 +1,10 @@
 <?php
+/* 
+ *
+ * Configuration file as provided by Kustodian in Siemonster 2.5
+ * Assumed attribution 
+ *
+ */
 
 $config = [];
 
