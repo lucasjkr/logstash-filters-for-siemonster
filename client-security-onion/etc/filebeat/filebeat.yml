@@ -12,7 +12,6 @@ filebeat:
       # For each file found under this path, a harvester is started.
       # Make sure not file is defined twice as this can lead to unexpected behaviour.
       paths:
-        - /var/log/apache2/access.log
         - /nsm/bro/logs/current/*.log
 
       # Configure the file encoding for reading files with international characters
